@@ -1,3 +1,4 @@
 # CodeSample
 Dashboard app Project
-This is for sample code required for interview
+
+Made a dashboard for analysing patient's data.
